@@ -1,3 +1,3 @@
-to run start "python server.py" that will load index.html stuff
+to run start "python server.py"
 
-then you need to make it do some mongo db connection
+Application then uses a localhost MongoDB connection to handle user requests for adding and getting excersize links
